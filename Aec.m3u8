@@ -1,3 +1,0 @@
-#EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=10,BANDWIDTH=1200000
-http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=rtmp&username=109789&password=109789&stream=6701
