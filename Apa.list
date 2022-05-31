@@ -1,8 +1,21 @@
 #EXTM3U
+#EXTINF:-1 group-title="MALAY" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",Astro Ria 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
+https://tv.kpsvpn.com/ria.mpd
+
+
+#EXTINF:-1 tvg-id="AstroWarna" group-title="MALAY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",Astro Warna 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
+https://tv.kpsvpn.com/warna.mpd
+
+
 #EXTINF:-1 tvg-id="108" group-title="MALAY" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
 https://tv.kpsvpn.com/citra.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="MALAY" tvg-id="" tvg-name="",AWESOME TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
