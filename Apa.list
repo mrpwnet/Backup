@@ -1,11 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="MALAY" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",Astro Ria 4
+#EXTINF:-1 group-title="MALAY" tvg-id="101" ch-number="101" tvg-logo="",Tv1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1001
+https://tv.kpsvpn.com/tv1.mpd
+
+#EXTINF:-1 group-title="MALAY" tvg-id="104" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
 https://tv.kpsvpn.com/ria.mpd
 
 
-#EXTINF:-1 tvg-id="AstroWarna" group-title="MALAY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",Astro Warna 5
+#EXTINF:-1 tvg-id="107" group-title="MALAY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",Astro Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
 https://tv.kpsvpn.com/warna.mpd
