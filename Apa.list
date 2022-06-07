@@ -4,6 +4,12 @@
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1001
 https://tv.kpsvpn.com/tv1.mpd
 
+#EXTINF:-1 group-title="MALAY" tvg-id="102" ch-number="102" tvg-logo="",Tv2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1002
+https://tv.kpsvpn.com/tv2.mpd
+
+
 #EXTINF:-1 group-title="MALAY" tvg-id="104" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
