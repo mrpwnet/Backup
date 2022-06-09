@@ -12,7 +12,7 @@ https://tv.kpsvpn.com/tv2.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=edef8ba979d64acea3c827dcd51d21ed&key=3afe30ee4ea24a67fe5a2ef06e83db0b
 #EXTINF:-1 group-title="MALAY" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
