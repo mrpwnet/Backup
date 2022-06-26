@@ -42,13 +42,15 @@ https://tv.kpsvpn.com/oasis.mpd
 #EXTINF:-1 tvg-id="107" group-title="Malay" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",Astro Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
-https://tv.kpsvpn.com/warna.mpd
+#https://tv.kpsvpn.com/warna.mpd
+https://tvmalaysia.xyz:5443/LiveApp/streams/776924743231420143634296.m3u8
 
 
 #EXTINF:-1 tvg-id="108" group-title="Malay" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
-https://tv.kpsvpn.com/citra.mpd
+#https://tv.kpsvpn.com/citra.mpd
+https://tvmalaysiaonline.xyz:5443/LiveApp/streams/936628122913222362290134.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
