@@ -2,13 +2,15 @@
 #EXTINF:-1 tvg-id="101" tvg-name="TV1" group-title="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/711
-https://tv.kpsvpn.com/tv1.mpd
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8|Referer=https://rtmklik.rtm.gov.my
+
 
 
 #EXTINF:-1 tvg-id="102" tvg-name="TV2" group-title="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",TV2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5027
-https://tv.kpsvpn.com/tv2.mpd
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.rtm.gov.my
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -20,7 +22,7 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 #EXTINF:-1 group-title="Malay" tvg-id="104" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
-#https://tv.kpsvpn.com/ria.mpd
+#https://links.aqfadtv.xyz/ria.mpd
 https://tvmalaysia.xyz:5443/LiveApp/streams/826950564507780933339779.m3u8
 
 
@@ -35,7 +37,7 @@ https://tvmalaysia.xyz:5443/LiveApp/streams/604123610972968034378903.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7b65e3d6ee807842a109821fba96b510&key=7827b9cf05fda4c3b77f48dea0acfa48
 #EXTINF:-1 tvg-id="106" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-title="Malay",Astro Oasis
-https://tv.kpsvpn.com/oasis.mpd
+https://links.aqfadtv.xyz/oasis.mpd
 
 
 
@@ -56,7 +58,7 @@ https://tvmalaysiaonline.xyz:5443/LiveApp/streams/936628122913222362290134.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=dd600869fd5f4bfee286825f6d778b10&key=eb5b83acbbd79af479a00db92935a34b
 #EXTINF:-1 tvg-id="122" ch-number="122" group-title="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",TVS
-https://tv.kpsvpn.com/tvs.mpd
+https://links.aqfadtv.xyz/tvs.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="Malay" tvg-id="" tvg-name="",AWESOME TV
